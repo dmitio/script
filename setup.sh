@@ -21,4 +21,4 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-
 # Set executable permissions for Docker Compose
 sudo chmod +x /usr/local/bin/docker-compose
 
-echo "All commands executed successfully."
+echo "Over over"
