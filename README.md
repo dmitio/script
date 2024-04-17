@@ -8,3 +8,13 @@ bash -c "$(wget -qO- https://raw.githubusercontent.com/dmitio/script/main/root.s
 wget -qO- https://raw.githubusercontent.com/dmitio/script/main/setup.sh | bash
 
 ```
+3.Sing-box全家桶
+```
+wget -qO- https://raw.githubusercontent.com/dmitio/script/main/singbox.sh | bash
+
+```
+4.安装Docker
+```
+wget -qO- https://raw.githubusercontent.com/dmitio/script/main/setup.sh | bash
+
+```
