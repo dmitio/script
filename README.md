@@ -1,3 +1,4 @@
+修改ssh端口为9527
 ```
-wget -O root.sh https://raw.githubusercontent.com/dmitio/script/main/root.sh 
+bash -c "$(wget -qO- https://raw.githubusercontent.com/dmitio/script/main/root.sh)"
 ```
