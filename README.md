@@ -13,8 +13,8 @@ wget -qO- https://raw.githubusercontent.com/dmitio/script/main/setup.sh | bash
 bash <(wget -qO- https://raw.githubusercontent.com/dmitio/script/main/singbox.sh)
 
 ```
-4.安装Docker
+4.3x-ui
 ```
-wget -qO- https://raw.githubusercontent.com/dmitio/script/main/setup.sh | bash
+bash <(curl -Ls https://raw.githubusercontent.com/dmitio/script/main/3xui.sh)
 
 ```
