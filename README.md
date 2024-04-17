@@ -10,7 +10,7 @@ wget -qO- https://raw.githubusercontent.com/dmitio/script/main/setup.sh | bash
 ```
 3.Sing-box全家桶
 ```
-wget -qO- https://raw.githubusercontent.com/dmitio/script/main/singbox.sh | bash
+bash <(wget -qO- https://raw.githubusercontent.com/dmitio/script/main/singbox.sh)
 
 ```
 4.安装Docker
