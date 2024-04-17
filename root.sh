@@ -34,5 +34,3 @@ modify_ssh_port() {
 # 执行修改SSH端口号函数
 modify_ssh_port
 
-# 下载并执行脚本文件
-wget -O root.sh https://raw.githubusercontent.com/dmitio/script/main/root.sh && chmod +x root.sh && ./root.sh && clear
