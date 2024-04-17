@@ -2,3 +2,8 @@
 ```
 bash -c "$(wget -qO- https://raw.githubusercontent.com/dmitio/script/main/root.sh)"
 ```
+
+2.一键脚本
+```
+
+```
