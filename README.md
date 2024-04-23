@@ -18,3 +18,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/dmitio/script/main/singbox.sh
 bash <(curl -Ls https://raw.githubusercontent.com/dmitio/script/main/3xui.sh)
 
 ```
+5.naiveproxy
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/dmitio/naiveproxy-script/main/naiveproxy.sh && bash naiveproxy.sh
+```
