@@ -22,3 +22,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/dmitio/script/main/3xui.sh)
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/dmitio/script/main/naiveproxy.sh && bash naiveproxy.sh
 ```
+6.kejilion
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/dmitio/script/main/kejilion.sh && bash kejilion.sh
+```
